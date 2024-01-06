@@ -1,0 +1,1 @@
+(setq package-gnupghome-dir "~/.emacs.d/elpa/gnupg")
